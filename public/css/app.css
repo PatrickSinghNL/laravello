@@ -379,6 +379,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 [hidden] {
   display: none;
 }
+.absolute {
+  position: absolute;
+}
 .mx-4 {
   margin-left: 1rem;
   margin-right: 1rem;
