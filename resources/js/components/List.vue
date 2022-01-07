@@ -14,16 +14,15 @@
 </template>
 
 <script>
-import Card from './Card';
-import CardAddButton from './CardAddButton'
+import Card from "./Card";
+import CardAddButton from "./CardAddButton";
 
 export default {
     components: {
         Card,
-        CardAddButton
-
-    }
-}
+        CardAddButton,
+    },
+};
 </script>
 
 <style scoped>

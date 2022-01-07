@@ -5263,6 +5263,12 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
+//
+//
+//
 
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
   components: {
@@ -28647,7 +28653,7 @@ var render = function () {
       _vm._v(" "),
       _c("div", { staticClass: "h-full flex flex-1 flex-col items-stretch" }, [
         _c("div", { staticClass: "mx-4 mb-2 text-white font-bold text-lg" }, [
-          _vm._v("The board title goes here"),
+          _vm._v("\n            The board title goes here\n        "),
         ]),
         _vm._v(" "),
         _c(
@@ -28677,7 +28683,7 @@ var staticRenderFns = [
         _c(
           "div",
           { staticClass: "text-lg opacity-50 cursor-pointer hover:opacity-75" },
-          [_vm._v("Laravello")]
+          [_vm._v("\n            Laravello\n        ")]
         ),
         _vm._v(" "),
         _c("div", { staticClass: "mr-2 w-1/3 flex justify-end" }, [
@@ -28747,7 +28753,7 @@ var render = function () {
       staticClass:
         "rounded-sm p-2 text-gray-600 cursor-pointer hover:bg-gray-400 hover:text-gray-800 text-sm",
     },
-    [_vm._v("Add new card")]
+    [_vm._v("\n    Add new card\n")]
   )
 }
 var staticRenderFns = []
